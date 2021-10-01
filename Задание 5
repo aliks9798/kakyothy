@@ -1,0 +1,4 @@
+a = float(input("Введите рост"))
+b = float(input("Введите вес"))
+v = b/(a*2)
+print (v)
